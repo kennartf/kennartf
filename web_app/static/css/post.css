@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(/static/images/cc.jpg);
+  background-color: rgb(46, 107, 131);
+  height: 7rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div .container {
+  margin: 3rem 10rem;
+  -webkit-box-direction: normal;
+  width: 20rem;
+}
+
+#nb {
+  margin: 0.8rem auto 8.7rem;
+  width: 10rem;
+}
+
+#second {
+  margin: -7rem auto 7.6rem;
+  color: rgb(0, 0, 0);
+  background: rgb(54, 227, 233);
+  width: 7rem;
+  position: absolute;
+}
+
+/* from somewhere */
+.content-section {
+  background: rgb(162, 248, 195);
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.frm,
+#nat,
+#em,
+#name_input {
+  margin: auto;
+  width: 19rem;
+  padding: 1rem 0rem;
+}
+
+label {
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
+}
+
+@font-face {
+  src: url(/static/fonts/JosefinSans-SemiBold.ttf);
+  font-family: Ken;
+}
+
+body {
+  background-image: url(/static/images/u.jpg);
+  background-color: rgb(46, 107, 131);
+  height: 7rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+legend {
+  color: lawngreen;
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: Ken;
+}
+
+#vm {
+  padding: 0rem 0;
+  margin: -1rem 0rem;
+}
+
+body,
+.frm {
+  background-color: rgb(250, 244, 244);
+}
+
+.btgroup {
+  margin: 0.9rem 5.2rem;
+  width: 10rem;
+}
+
+#nb {
+  margin: -0.6rem auto 19rem 15.5rem;
+  width: 4rem;
+}
+
+.frm {
+  background: #07272f;
+  border-radius: 0.5rem;
+  padding: 15px 22px;
+  width: 21.5rem;
+  border: 1px solid #dddddd;
+  height: 27rem;
+  border: 1px solid #ca1b1b;
+}
+
+body {
+  background-color: rgb(183, 234, 236);
+}
+
+h6 {
+  color: white;
+  margin: 1.3rem auto -1rem 0.1rem;
+}
